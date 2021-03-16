@@ -8,14 +8,7 @@ I am Prince Prajapati 😃, from Jabalpur, Madhya Pradesh 🏫.
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML/CSS/JS**.
-- Backend development using **Node JS**.
-- Creating scalable cloud architecture using **GCP**.
 
-## Coming Soon!!⭐️
-- 💬 With CHAT Section.
-- 🎯 Portfolio
-- ⚡ With Day and Night Mode.
+![Om's github stats](https://github-readme-stats.vercel.app/api?username=princeprajapati2701&hide=["issues"]&show_icons=true)
 
-![Om's github stats](https://github-readme-stats.vercel.app/api?username=OmShrivastava19&hide=["issues"]&show_icons=true)
-
-⭐️ From [Prince Prajapati](https://github.com/OmShrivastava19)
+⭐️ From [Prince Prajapati](https://github.com/princeprajapati2701)
